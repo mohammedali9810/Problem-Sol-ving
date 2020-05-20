@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503316345 source:c:\users\moham\onedrive\documents\problems\simple sort\main.cpp
+	<iostream>
+	<array>
+	<algorithm>
+

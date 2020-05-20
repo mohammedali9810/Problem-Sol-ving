@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503260687 source:c:\users\moham\onedrive\documents\problems\bhaskara's formula\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+

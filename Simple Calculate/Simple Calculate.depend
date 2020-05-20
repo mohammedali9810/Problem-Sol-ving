@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503252845 source:c:\users\moham\onedrive\documents\problems\simple calculate\main.cpp
+	<iostream>
+	<iomanip>
+	<array>
+
